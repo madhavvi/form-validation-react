@@ -1,0 +1,28 @@
+.form-validation-wrapper h1, .form-validation-wrapper h3 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.form-validation-wrapper h3 {
+    color: rgb(14, 194, 14);
+}
+
+.form-validation-wrapper label {
+    font-size: 17px !important;
+    padding-bottom: 8px;
+    color: rgb(0 0 0 / 64%) !important;
+}
+
+.form-field {
+    padding-bottom: 20px;
+}
+
+.text-error {
+    color: red;
+}
+
+.btn-submit {
+    font-size: 18px !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
